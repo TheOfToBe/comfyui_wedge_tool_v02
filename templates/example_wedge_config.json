@@ -1,0 +1,11 @@
+{
+    "output_folder": "_DEMO_wedge_2025-10-06_02",
+    "filename_prefix": "wedge",
+    "url": "127.0.0.1:8188",
+    "param_overrides": {},
+    "param_wedges": {
+        "KSAMPLER": [
+            ["steps", [14, 20, 2], "minmax"]
+        ]
+    }
+}
